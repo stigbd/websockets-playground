@@ -5,6 +5,10 @@ A very simple server and client in python to communicate over websockets.
 Requirements:
 - [poetry](https://pypi.org/project/poetry/)
 
+Install:
+```
+% poetry install
+```
 Run the server:
 ```
 % poetry run python ws_server.py

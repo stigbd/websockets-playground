@@ -27,5 +27,6 @@ Hello, world!
 To start the client, open up another shell:
 ```
 % cd client
+% poetry install
 % poetry run python ws_client.py
 ```

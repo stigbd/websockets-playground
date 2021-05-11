@@ -7,6 +7,7 @@ Requirements:
 
 To start the server:
 ```
+% poetry install
 % poetry run python ws_server.py
 ```
 
